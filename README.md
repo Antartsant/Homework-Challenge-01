@@ -12,6 +12,7 @@ An in-depth paragraph about your project and overview of use.
 
 ## Application
 
+![alt text](assets/images/AppScreenshot.png)
 
 
 ## Deployed Link

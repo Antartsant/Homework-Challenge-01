@@ -8,7 +8,7 @@ SO THAT our own site is optimized for search engines<br>
 
 ## Description
 
-
+Website for vision and goals for the Marketing Teanm at Horiseon and what they are doing.
 
 ## Application
 
@@ -18,6 +18,12 @@ SO THAT our own site is optimized for search engines<br>
 ## Deployed Link
 
 https://antartsant.github.io/Homework-Challenge-01/
+
+## What I've Done
+
+Updated the HTML file to fit acessability alt attribute standards ect.<br>
+Updated sematic HTML elements along with header and title elements.<br>
+Fixed and shrunk down css file so its not so big.<br>
 
 ## Authors
 

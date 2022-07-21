@@ -1,38 +1,32 @@
  # Homework-01-Horiseon
 
-Simple overview of use/purpose.
+## User Story
+
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
 
+## Application
+
+
+
 ## Deployed Link
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+https://antartsant.github.io/Homework-Challenge-01/
 
 ## Authors
 
 Jensen Wallace
 jensend.wallace@gmail.com
 
+## Credit
+
+Horiseon, INC.
+
 ## License
 
 This project is licensed under the 2019 Horiseon Social Solution Services, Inc.
-
-## Acknowledgments
